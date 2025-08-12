@@ -1,19 +1,18 @@
-# Hello World
+Features
+Add, Edit, Delete events
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Repeating events (daily, weekly, monthly, yearly)
 
-## Getting Started
+Reminder notifications
 
-A few resources to get you started if this is your first Flutter project:
+Customizable notification sounds
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+Share events via email, WhatsApp, etc.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Attach notes to calendar events
 
-## Getting Started: FlutLab - Flutter Online IDE
+Add location information to each event
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+View a list of upcoming events
+
+Customize appearance (Light / Dark mode
